@@ -5,7 +5,6 @@ string
 tkinter
 transformers
 tensorflow==2.3.1
-from newspaper import Article
 T5tokenizer(pre-trained transformer)
 
 ## Libraries/modules used in Extrative Summary 
@@ -14,4 +13,3 @@ os
 nltk
 numpy
 tkinter
-from newspaper import Article
