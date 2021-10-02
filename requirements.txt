@@ -5,7 +5,7 @@ string
 tkinter
 transformers
 tensorflow==2.3.1
-T5tokenizer(pre-trained transformer)
+T5tokenizer
 
 ## Libraries/modules used in Extrative Summary 
 re
